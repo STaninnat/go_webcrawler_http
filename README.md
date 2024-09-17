@@ -16,7 +16,7 @@ This project is a web crawler built from scratch in Go. It's designed as an SEO 
 - **golang.org/x/net/html**: Go's library for parsing HTML documents.
 - **os and io packages**: For handling file output and command-line operations.
 
-## How to Run
+## Installation
 
 1. Clone the repository.
 2. Ensure you have Go installed on your system with ```go version```
