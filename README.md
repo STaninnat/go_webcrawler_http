@@ -22,5 +22,6 @@ This project is a web crawler built from scratch in Go. It's designed as an SEO 
 2. Ensure you have Go installed on your system with ```go version```
 3. Run the web crawler with the following command:<br>
     `go build -o crawler`<br>
-    `./crawler URL maxConcurrency maxPages **Example: ./crawler "https://example.com" 3 10**`
+    `./crawler URL maxConcurrency maxPages` 
+    **Example:** `./crawler "https://example.com" 3 10`
     - *```go build``` and ```./crawler``` can also be replaced with ```go run .``` from your main package directory.*
